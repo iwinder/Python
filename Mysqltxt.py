@@ -1,4 +1,6 @@
 # Create your views here. 
+#wind
+#2015-04-21
 # -*- coding: utf-8 -*-
 import MySQLdb
 import xlwt
